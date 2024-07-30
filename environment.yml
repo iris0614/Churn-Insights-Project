@@ -1,0 +1,18 @@
+# install with conda env create -f environment.yml 
+name: 'churn_project'
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - ipykernel
+  - ipywidgets
+  - matplotlib
+  - plotly
+  - scikit-learn
+  - pip
+  - pytorch
+  - pip:
+      - pandas
+      - numpy
+      - torch
