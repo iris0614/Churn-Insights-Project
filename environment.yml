@@ -12,7 +12,10 @@ dependencies:
   - scikit-learn
   - pip
   - pytorch
+  - altair
+  - seaborn
   - pip:
       - pandas
       - numpy
       - torch
+      - openpyxl
