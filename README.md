@@ -159,7 +159,7 @@ To run `Churn Insights` locally:
 
 ## 📊 Tableau Dashboard
 
-![](img/Churn_insights.mp4)
+![](img/Churn_insights.gif)
 
 ## Contribution {#contribution}
 
