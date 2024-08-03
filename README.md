@@ -1,6 +1,6 @@
 # 🛠️ Churn Insights Project
 
-## Welcome! {#welcome}
+## Welcome! 
 
 First and foremost, welcome! 🎉 Willkommen! 🎊 Bienvenue! 🎈
 
@@ -29,27 +29,27 @@ Thank you for visiting the `Churn Insights` project repository. This README file
 
 ![](img/Churn_insights_screeshot.png)
 
-## Who Are We? {#who-are-we}
+## Who Are We? 
 
 Our `Churn Insights` team, comprised of adept developers and data scientists, is driven by a shared passion for technology and data analytics. Our expertise in data analysis underpins our commitment to this project.
 
-### Project Summary {#project-summary}
+### Project Summary 
 
 `Churn Insights` is an analytical platform dedicated to understanding and reducing customer attrition. Aimed at stakeholders such as business managers, data analysts, and customer relationship teams, it provides actionable insights through the careful analysis of customer data to identify patterns and reasons behind customer departures.
 
-### Motivation and Purpose {#motivation-and-purpose}
+### Motivation and Purpose 
 
 As a data analytics team, we strive to provide our target audience with a comprehensive tool that elucidates the various determinants of customer churn.
 
-### The Challenge {#the-challenge}
+### The Challenge 
 
 The business environment is intricate, often characterized by competitive market dynamics. There's a pronounced need for understanding customer behavior, especially to retain valuable customers and reduce churn rates.
 
-### Dashboard Features {#dashboard-features}
+### Dashboard Features 
 
 With `Churn Insights`, you can explore customer trends, analyze attributes influencing churn, and view real-time churn predictions, all through an interactive and intuitive interface.
 
-### The Solution {#the-solution}
+### The Solution 
 
 Our `Churn Insights` dashboard is an empowering tool that enables:
 
@@ -57,9 +57,9 @@ Our `Churn Insights` dashboard is an empowering tool that enables:
 -   Community-driven contributions to our database, fostering growth and inclusivity.
 -   The synthesis of valuable insights to facilitate well-informed business decisions.
 
-## What Are We Doing? {#what-are-we-doing}
+## What Are We Doing? 
 
-### The Dashboard {#the-dashboard}
+### The Dashboard 
 
 <img src="img/demo.gif" width="1000"/>
 
@@ -70,7 +70,7 @@ The current iteration of `Churn Insights` boasts:
 -   An interactive map to visualize geographical data and churn distributions.
 -   A table with an implemented churn probability slider for interactive filtering.
 
-### Forward Vision {#forward-vision}
+### Forward Vision 
 
 We are poised to refine `Churn Insights` further, enhancing its interactivity and user interface. Our ambitions include the integration of advanced predictive analytics and the expansion of our dataset to encompass global markets.
 
@@ -82,29 +82,28 @@ We are poised to refine `Churn Insights` further, enhancing its interactivity an
 4.  **Tableau Visualization & Enhancing Visuals**
 5.  **Build Machine Learning Model** - EDA and build KNN, Decision tree, Random Forest, RBF SVM, Logistic regression models in Jupyter Notebook and finally pick the best model to predict and show the results.
 
-## Get Support {#get-support}
+## Get Support 
 
 Encountered an issue or have a question? Feel free to [open an issue](#get-support) in this repository, and our team will be happy to assist you.
 
-## Collaboration {#collaboration}
+## Collaboration 
 
 Our project is a collaborative endeavor, with each team member playing a pivotal role:
 
 -   [Iris Luo](https://github.com/iris0614)
 -   [Aishwarya Nadimpally](https://github.com/Aishwarya120111)
 
-## Data Sources and Licensing {#data-sources-and-licensing}
+## Data Sources and Licensing 
 
-### Data Sources {#data-sources}
+### Data Sources 
 
 Our analysis is anchored in robust customer datasets, obtained from various sources. Details are provided within the project repository.
 
-### Licensing {#licensing}
+### Licensing 
 
 The `Churn Insights` codebase is MIT licensed, as found in the [LICENSE](LICENSE) in this repository.
 
-## Setup for Local Development {#setup-for-local-development}
-
+## Setup for Local Development 
 To run `Churn Insights` locally:
 
 1.  **Clone the Repository**
@@ -161,15 +160,15 @@ To run `Churn Insights` locally:
 
 ![](img/Churn_insights.gif)
 
-## Contribution {#contribution}
+## Contribution 
 
 Dive into `Churn Insights` and join us in forging a more transparent and inclusive business environment. Your contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. Please read our [Contribution Guidelines](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests to us.
 
-## Thank You {#thank-you}
+## Thank You 
 
 Thank you so much (Danke schön! Merci beaucoup!) for visiting our project. We hope you'll join us on this exciting journey to empower businesses with Churn Insights.
 
-## Glossary {#glossary}
+## Glossary 
 
 -   README file: A document introducing an open project to the public and potential contributors, typically including installation, usage, and contribution information.
 -   Repository (or Repo): A collection of documents related to your project, where you create and save new code or content, often hosted on platforms like GitHub or Bitbucket.
