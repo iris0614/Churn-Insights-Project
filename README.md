@@ -27,7 +27,7 @@ Thank you for visiting the `Churn Insights` project repository. This README file
     -   [Thank You](#thank-you)
     -   [Glossary](#glossary)
 
-![](img/Churn_insights_screeshot.png)
+![](img/ChurnInsights_img.png)
 
 ## Who Are We? 
 
@@ -61,7 +61,7 @@ Our `Churn Insights` dashboard is an empowering tool that enables:
 
 ### The Dashboard 
 
-<img src="img/demo.gif" width="1000"/>
+![](img/Churn_insights_screeshot.png)
 
 The current iteration of `Churn Insights` boasts:
 
