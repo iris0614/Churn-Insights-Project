@@ -27,7 +27,7 @@ Thank you for visiting the `Churn Insights` project repository. This README file
     -   [Thank You](#thank-you)
     -   [Glossary](#glossary)
 
-<img src="img/ChurnInsights_img.png" width="500"/>
+![](img/Churn_insights_screeshot.png)
 
 ## Who Are We? {#who-are-we}
 
@@ -159,7 +159,7 @@ To run `Churn Insights` locally:
 
 ## 📊 Tableau Dashboard
 
-Include a screenshot of your Tableau dashboard here to give users a visual overview of what to expect.
+![](img/Churn_insights.mp4)
 
 ## Contribution {#contribution}
 
