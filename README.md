@@ -59,6 +59,8 @@ Our `Churn Insights` dashboard is an empowering tool that enables:
 
 ## What Are We Doing? 
 
+Churn Insights is a comprehensive project that involved several key steps, starting with the ETL process in PostgreSQL via pgAdmin to load and transform the data. We then conducted data cleaning within PostgreSQL to ensure the dataset was accurate and consistent. Following this, we applied data transformations and created enhanced visualizations in Tableau to effectively present our findings. The final phase involved building and evaluating multiple machine learning models, including KNN, Decision Tree, Random Forest, RBF SVM, and Logistic Regression, within Jupyter Notebook. We conducted thorough Exploratory Data Analysis (EDA) and selected the best model to make predictions and present the results.
+
 ### The Dashboard 
 
 ![](img/Churn_insights_screeshot.png)
